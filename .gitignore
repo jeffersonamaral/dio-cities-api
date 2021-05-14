@@ -6,10 +6,10 @@ build/
 
 ### STS ###
 .apt_generated
-.classpath
+#.classpath
 .factorypath
-.project
-.settings
+#.project
+#.settings
 .springBeans
 .sts4-cache
 
@@ -29,3 +29,4 @@ out/
 
 ### VS Code ###
 .vscode/
+/bin/
